@@ -1,5 +1,5 @@
-blank_issues_enabled: true # false or true
+blank_issues_enabled: false # false or true
 contact_links:
-  - name: NAME
+  - name: GOOGLE
     url: https://pughlab.mbg.cornell.edu/scriptmanager-docs/docs/
     about: DESCRIPTION
